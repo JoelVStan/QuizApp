@@ -1,8 +1,6 @@
 package com.example.joelstan.quizapp;
 import android.graphics.Color;
-/**
- * Created by Sushant on 23-11-2016.
- */
+
 import java.util.Random;
 public class BackgroundColor {
     private String[] mColors = {
